@@ -36,8 +36,9 @@
 </div>
 
 ### 📈 Career Points
-- **Inventing:** 🏎️🏎️🏎️🏎️🏎️ 100%
+- **Studying:** 🏎️🏎️🏎️🏎️🏎️ 90% (Only in English,Math,Science,ICT lol)
 - **Coding:** 🏎️🏎️🏎️🏎️ 80%
+- **Inventing:** 🏎️🏎️🏎️ 75%
 - **Sleep:** 🏎️ 20% (Mainly during FP1)
 
 ---
