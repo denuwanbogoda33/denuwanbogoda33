@@ -1,6 +1,4 @@
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGJvY2RkYmN6eXo4MmUzdDJucm1xYTFva3hhejdzMHk1MHIxMmxyZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/342Zsv5S4W8XC/giphy.gif" width="100%" alt="F1 Header"/>
-
   # DU DU DU DU, MAX VERSTAPPEN 🦁
 
   i’m **Denuwan**. 15yo (v16.0 drops Sept 11). 🏎️
