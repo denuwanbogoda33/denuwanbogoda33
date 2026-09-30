@@ -1,7 +1,7 @@
 <div align="center">
   # DU DU DU DU, MAX VERSTAPPEN 🦁
 
-  i’m **Denuwan**. 15yo (v16.0 drops Sept 11). 🏎️
+  i’m **Denuwan**. 16yo. 🏎️
   <br>just a hardware dev living in the fastest pitlane possible.
 </div>
 
