@@ -28,11 +28,6 @@
 
 ---
 
-<div align="center">
-  <h3>Simply Lovely.</h3>
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmVnM252OXZncGExYWJueWhuNW00bXIyaHdxYTFnbjh5NmxtemhjNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S3U5nWge0nhBXdqfQb/giphy.gif" width="300" alt="Max Verstappen"/>
-</div>
-
 ### 📈 Career Points
 - **Studying:** 🏎️🏎️🏎️🏎️🏎️ 90% (Only in English,Math,Science,ICT lol)
 - **Coding:** 🏎️🏎️🏎️🏎️ 80%
