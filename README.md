@@ -43,4 +43,7 @@
   <a href="https://instagram.com/denu.exe">
     <img src="https://img.shields.io/badge/Instagram-@denu.exe-E4405F?style=flat-square&logo=instagram">
   </a>
+   <a href="https://kineticf1.netlify.app">
+    <img src="https://img.shields.io/badge/web-Kinetic F1-E4405F?style=flat-square&logo=web">
+  </a>
 </div>
